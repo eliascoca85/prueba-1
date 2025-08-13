@@ -29,19 +29,14 @@ ionic serve
 Esto abrirá la aplicación en tu navegador predeterminado.
 
 ```
-
+```
 ## Imágenes de pruebas
 
-`
 ```
 
-
-
 ![Favicon de ejemplo](public/COPILACION.png)
-![Favicon de ejemplo](public/VERIFICACION.png)
+![Favicon de ejemplo](public/verificaion_correcta.png)
 ![Favicon de ejemplo](public/PRUEBA.png)
-
-
 
 Asegúrate de que la ruta sea correcta y que la imagen exista en la carpeta indicada.
 
