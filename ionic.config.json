@@ -1,5 +1,14 @@
 {
   "name": "Prueba1",
+<<<<<<< HEAD
   "integrations": {},
   "type": "react-vite"
 }
+=======
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "5a23698b"
+}
+>>>>>>> 045854f65f639837fe28cfbab37be25e4152ce78
