@@ -29,7 +29,7 @@ ionic serve
 Esto abrirá la aplicación en tu navegador predeterminado.
 
 ```
-```
+
 ## Imágenes de pruebas
 
 ```
